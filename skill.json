@@ -1,0 +1,15 @@
+{
+  "name": "genpark-tree-of-thoughts-mcts-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Tree of Thoughts (ToT) Monte Carlo Tree Search (MCTS) reasoning engine with UCB1 exploration-exploitation balance and state backpropagation.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "tree-of-thoughts",
+    "tot",
+    "mcts",
+    "agent-reasoning"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
